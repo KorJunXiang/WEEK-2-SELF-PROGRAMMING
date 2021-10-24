@@ -1,0 +1,36 @@
+package selfProgramming;
+
+public class test1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 10;
+		int b = 20;
+		int c = 5;
+		int d = 30;
+		int e = 6;
+		System.out.println("a + b = "+ (a + b) );
+		System.out.println("b - c = "+ (b - c) );
+		System.out.println("a * b = "+ (a * b) );
+		System.out.println("b / c = "+ (b / c) );
+		System.out.println("a==b = "+ (a==b) );
+		System.out.println("a!=b = "+ (a!=b) );
+		System.out.println("b>a+c+c = "+ (b>a+c+c) );
+		System.out.println("b>=a+c+c = "+ (b>=a+c+c) );
+		System.out.println("b<d = "+ (b<d) );
+		System.out.println("d<a+b = "+ (d<a+b) );
+		System.out.println("d<=a+b = "+ (d<=a+b) );
+		System.out.println("2*b-a = "+ (2*b-a) );
+		System.out.println("2*(b-a) = "+ (2*(b-a) ) );
+		System.out.println("b%a = "+ b%a);
+		System.out.println("a%e = "+ a%e);
+		System.out.println("2*(a%e) = "+ 2*(a%e) );
+		System.out.println("2*a%e = "+ 2*a%e);
+		System.out.println("b%e = "+ b%e);
+		System.out.println("4*(b%e) = "+ 4*(b%e) );
+		System.out.println("4*b%e = "+ 4*b%e);
+		System.out.println("x:" +25+50 );
+		System.out.println("x:"+ (25+50));
+	}
+
+}
