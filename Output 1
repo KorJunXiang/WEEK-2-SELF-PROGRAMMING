@@ -1,0 +1,22 @@
+a + b = 30
+b - c = 15
+a * b = 200
+b / c = 4
+a==b = false
+a!=b = true
+b>a+c+c = false
+b>=a+c+c = true
+b<d = true
+d<a+b = false
+d<=a+b = true
+2*b-a = 30
+2*(b-a) = 20
+b%a = 0
+a%e = 4
+2*(a%e) = 8
+2*a%e = 2
+b%e = 2
+4*(b%e) = 8
+4*b%e = 2
+x:2550
+x:75
